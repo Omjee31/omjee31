@@ -188,13 +188,7 @@ Expected Graduation: **2027**
 
 ## 🔥 GitHub Streak
 
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=Omjee31&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Omjee31&theme=tokyonight&hide_border=true"/> </p>
 
 ------------------------------------------------------------------------
 
