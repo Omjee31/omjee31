@@ -173,19 +173,7 @@ Expected Graduation: **2027**
 
 ------------------------------------------------------------------------
 
-📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Omjee31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omjee31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/> </p>
---------------------------------------------------------------------------
-🔥 GitHub Streak
-
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=Omjee31&theme=tokyonight&hide_border=true&starting_year=2026&timezone=Asia%2FKolkata&date_format=M%20j%5B%2C%20Y%5D" /> </p>
-
-🏆 GitHub Achievements
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Omjee31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" /> </p>
-
-------------------------------------------------------------------------
 
 ## 🎯 2026 Goals
 
@@ -210,10 +198,5 @@ Expected Graduation: **2027**
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
-⭐ Thanks for visiting my profile!
-```{=html}
-</p>
+<p align="center"> ⭐ Thanks for visiting my profile! </p>
 ```
