@@ -73,6 +73,13 @@ Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vis
 
 ## 🚀 Featured Projects
 
+### 🤖 Emotional AI Assistant
+
+An AI-powered chatbot that adapts its communication style through **5 different personalities — Happy, Sad, Angry, Professional, and Sarcastic**. Built with **Python, LangChain, Hugging Face, DeepSeek, and FastAPI**, and deployed on Render.
+
+🔗 [Live Demo](https://emotional-ai-assistant.onrender.com/)
+🔗 [GitHubRepository](https://github.com/Omjee31/Emotional-Ai-Assistant)
+
 ### 📰 Fake Real News Detection
 
 End-to-end NLP classification application for distinguishing authentic
@@ -119,20 +126,6 @@ using classification algorithms and engineered behavioral features.
 
 🔗 [GitHub
 Repository](https://github.com/Omjee31/customer-churn-prediction-ml)
-
-------------------------------------------------------------------------
-
-### 🩺 Breast Cancer Prediction
-
-Machine learning classification project using Support Vector Machine
-(SVM).
-
--   Achieved **98.25% accuracy**
--   Achieved **100% recall for malignant cases**
--   Built using Python and Scikit-learn
-
-🔗 [GitHub
-Repository](https://github.com/Omjee31/Breast-Cancer-Prediction)
 
 ------------------------------------------------------------------------
 
