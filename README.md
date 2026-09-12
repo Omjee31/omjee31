@@ -175,20 +175,15 @@ Expected Graduation: **2027**
 
 ## 📊 GitHub Stats
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=Omjee31&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>`{=html}
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omjee31&layout=compact&theme=tokyonight&hide_border=true" height="170"/>`{=html}
-```{=html}
-</p>
-```
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Omjee31&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omjee31&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
 
 ------------------------------------------------------------------------
 
 ## 🔥 GitHub Streak
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Omjee31&theme=tokyonight&hide_border=true"/> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Omjee31&theme=tokyonight&hide_border=true&starting_year=2026"/>
+</p>
 
 ------------------------------------------------------------------------
 
@@ -205,17 +200,13 @@ Expected Graduation: **2027**
 
 ## 🤝 Let's Connect
 
-```{=html}
 <p align="center">
-```
-`<a href="https://github.com/Omjee31">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html} `<a href="https://www.linkedin.com/in/omjee-singh-454b9a328/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
-`</a>`{=html}
-```{=html}
+
+<a href="https://github.com/Omjee31"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<a href="https://www.linkedin.com/in/omjee-singh-454b9a328/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
 </p>
-```
 
 ------------------------------------------------------------------------
 
